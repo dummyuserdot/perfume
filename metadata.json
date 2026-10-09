@@ -1,0 +1,6 @@
+{
+  "name": "ÉTHER & AURA — Haute Parfumerie",
+  "description": "Exquisite luxury fragrance atelier featuring artisanal perfumes, fragrance note pyramids, interactive scent profiling, cart, wishlist, and seamless local-storage checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
